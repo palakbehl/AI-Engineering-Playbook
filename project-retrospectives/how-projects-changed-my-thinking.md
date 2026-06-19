@@ -9,10 +9,10 @@ This document is a reflection of my growth as an engineer. Looking back at the e
 ```mermaid
 timeline
     title Project Influence on My Engineering Mental Models
-    2024 : SmartFood : Asynchronous execution, Python ML integrations, data quality constraints.
-    2024 : Ajaysinh Foundation : Payment gateway integrity, transactional safety, server webhooks.
-    2025 : CogniTrace : Performance boundaries, telemetry, client-side ML isolation via Web Workers.
-    2025 : RepoLens : Clean Architecture, strict static typing C#, database optimization and CTEs.
+    Jan 2026 : CogniTrace : Performance boundaries, telemetry, client-side ML isolation via Web Workers.
+    Feb 2026 : SmartFood : Asynchronous execution, Python ML integrations, data quality constraints.
+    May 2026 : Ajaysinh Foundation : Payment gateway integrity, transactional safety, server webhooks.
+             : RepoLens : Clean Architecture, strict static typing C#, database optimization and CTEs.
 ```
 
 ---
