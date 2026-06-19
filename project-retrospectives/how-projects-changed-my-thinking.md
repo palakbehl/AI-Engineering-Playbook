@@ -7,7 +7,7 @@ This document is a reflection of my growth as an engineer. Looking back at the e
 ## The Growth Timeline
 
 ```mermaid
-chronology
+timeline
     title Project Influence on My Engineering Mental Models
     2024 : SmartFood : Asynchronous execution, Python ML integrations, data quality constraints.
     2024 : Ajaysinh Foundation : Payment gateway integrity, transactional safety, server webhooks.
